@@ -1,2 +1,2 @@
 # git_test
-The Odin Project
+This is a branch for the Code Academy
